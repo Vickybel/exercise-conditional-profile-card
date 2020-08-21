@@ -36,10 +36,10 @@ function render(variables = {}) {
           <h2>Web Developer</h2>
           <h3>Miami, USA</h3>
           <ul class="position-right">
-            <li><a href="https://twitter.com/Lderemi"><i class="fa fa-twitter"></i></a></li>
-            <li><a href="https://github.com/Dereemii"><i class="fa fa-github"></i></a></li>
-            <li><a href="https://www.linkedin.com/in/leslie-herrera-miranda-99364a40/"><i class="fa fa-linkedin"></i></a></li>
-            <li><a href="https://instagram.com/dereemii"><i class="fa fa-instagram"></i></a></li>
+            <li><a href="https://twitter.com/Vickybel1995"><i class="fa fa-twitter"></i></a></li>
+            <li><a href="https://github.com/Vickybel"><i class="fa fa-github"></i></a></li>
+            <li><a href="https://www.linkedin.com/in/victoria-lemus/"><i class="fa fa-linkedin"></i></a></li>
+            <li><a href="https://instagram.com/vickybel1995"><i class="fa fa-instagram"></i></a></li>
           </ul>
         </div>
     `;
